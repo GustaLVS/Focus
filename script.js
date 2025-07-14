@@ -298,7 +298,7 @@ function initWhatsAppButton() {
         // Adicionar mensagem personalizada ao WhatsApp
         whatsappButton.addEventListener('click', function(e) {
             const message = encodeURIComponent('Olá! Gostaria de saber mais sobre os serviços da Focus Dev.');
-            this.href = `https://wa.me/5511999999999?text=${message}`;
+            this.href = `https://wa.me/5577981239376?text=${message}`;
         });
     }
 }
